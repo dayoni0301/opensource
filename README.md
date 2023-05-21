@@ -13,4 +13,5 @@ AWS Rekognition의 object detection 서비스를 활용하여 이미지상의 �
 인식된 결과를 이미지의 전방에 위치한 object에 대해서만 네모 박스로 표시하는 기능 구현
 
 -개발환경 및 언어
+
 Visualstudiocode, javascript
